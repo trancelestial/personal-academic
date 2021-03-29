@@ -30,7 +30,7 @@ education:
       institution: University of Tübingen
       year: ""
     - course: BSc in Informatics
-      institution: Faculty of Mathematics, University of Belgrade
+      institution: University of Belgrade
       year: ""
 email: ""
 superuser: true
