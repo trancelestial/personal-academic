@@ -1,6 +1,6 @@
 ---
 title: Božidar Antić
-role: MSc Student, University of Tübingen
+role: MSc Student, Machine Learning
 avatar_filename: avatar.jpg
 bio: My research interest lies in 3D computer vision and machine learning.
 interests:
