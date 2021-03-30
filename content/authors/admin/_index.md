@@ -20,7 +20,7 @@ social:
     link: https://github.com/trancelestial
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/bozidar-antic
+    link: https://www.linkedin.com/in/bozidar-antic/
 organizations:
   - name: University of Tübingen
     url: https://uni-tuebingen.de/
