@@ -20,7 +20,7 @@ social:
     link: https://github.com/trancelestial
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/bozidar-antic
+    link: https://www.linkedin.com/in/bozidar-antic/
 organizations:
   - name: University of Tübingen
     url: https://uni-tuebingen.de/
@@ -30,7 +30,7 @@ education:
       institution: University of Tübingen
       year: ""
     - course: BSc in Informatics
-      institution: Faculty of Mathematics, University of Belgrade
+      institution: University of Belgrade
       year: ""
 email: ""
 superuser: true
