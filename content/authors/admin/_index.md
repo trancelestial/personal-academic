@@ -1,13 +1,13 @@
 ---
 title: Božidar Antić
-role: MSc Student, Machine Learning
+role: Ph.D. Student, Computer Vision and Machine Learning
 avatar_filename: avatar.jpg
-bio: My research interest lies in 3D computer vision and machine learning.
+bio: ""
 interests:
-  - 3D reconstruction
+  - 3D geometry and appearance reconstruction
   - neural scene representations
   - generative models
-  - lifelong learning
+  - representation learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,16 +24,20 @@ social:
 organizations:
   - name: University of Tübingen
     url: https://uni-tuebingen.de/
+  - name: European Lab for Learning and Intelligent Systems (ELLIS)
+    url: https://ellis.eu/
 education:
   courses:
-    - course: MSc in Machine Learning
+    - course: Ph.D. in Computer Vision and Machine Learning
       institution: University of Tübingen
-      year: ""
-    - course: BSc in Informatics
+    - course: M.Sc. in Machine Learning
+      institution: University of Tübingen
+      year: 2021
+    - course: B.Sc. in Informatics
       institution: University of Belgrade
-      year: ""
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a second year MSc student in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/en/). I am doing my Master's thesis at the [Autonomous Vision Group](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/) where I am working at the intersection of computer vision, machine learning, and computer graphics.
+Hi! I am a first-year Ph.D. student in the [Autonomous Vision Group](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/). As part of the [ELLIS Ph.D. program](https://ellis.eu/phd-postdoc), I am co-supervised by [Prof. Andreas Geiger](http://www.cvlibs.net/) (University of Tübingen) and [Prof. Siyu Tang](https://vlg.inf.ethz.ch/people/person-detail.siyutang.html) (ETH Zürich). My research interests lie at the intersection of computer vision (3D vision), machine learning (deep learning), and computer graphics (geometry, rendering).
